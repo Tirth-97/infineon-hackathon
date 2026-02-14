@@ -1,0 +1,14 @@
+langchain
+langchain-community
+llama-index
+ollama
+fastapi
+uvicorn
+python-dotenv
+requests
+numpy
+pandas
+scikit-learn
+chromadb
+faiss-cpu
+sentence-transformers
